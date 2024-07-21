@@ -1,0 +1,3 @@
+batch_size,lr,momentum,optimizer,weight_decay,val_acc
+64,0.0005,0.95,SGD,1e-05,0.5726014543748534
+16,0.001,0.95,SGD,0.0,0.7330518414262257
